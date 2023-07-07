@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="school_stuff">School stuff</string>
+    <string name="appointments_or_events">Appointments or events</string>
+    <string name="others">Others</string>
+    <string name="to_do">To-do</string>
+    <string name="yh">yh</string>
+</resources>
